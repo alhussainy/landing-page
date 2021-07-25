@@ -18,7 +18,7 @@ Landing page with automatically generated nav menu according to the number of se
 
 ## Usage
 _Any modern website browser can be used to view this project with node.js server._
-[Demo](#usage)
+[Demo](https://condescending-mclean-10ffcc.netlify.app/)
 ## structure
 `index.html` is the main page and `js\app.js` contains the script to automtically generate the navigation menu, add class to the section being viewed and smooth scrolling between different sections.
 
